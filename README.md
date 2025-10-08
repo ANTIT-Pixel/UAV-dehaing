@@ -10,7 +10,7 @@
 (2) Synthesis: We pioneer an inhomogeneous haze synthesis pipeline for drone imagery that accurately generates the spatial variation of aerial haze, abandoning the oversimplified homogeneous assumptions prevalent in prior work. (3) We designe a single-step diffusion network (PSSD) that integrates a physics-aware refinement module to obtain refined physical prior information, guiding the model to achieve end-to-end single-step image dehazing.
 
 <p align="center">
-  <img src="assets/teaser.jpg" width="90%" alt="UAV Dehazing teaser"/>
+  <img src="01.png" width="90%" alt="UAV Dehazing teaser"/>
 </p>
 
 ## ✨ Highlights
