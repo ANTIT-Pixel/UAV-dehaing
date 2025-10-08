@@ -14,10 +14,7 @@
 </p>
 
 ## ✨ Highlights
-- **UAV-specific robustness** to high altitude, fast motion, and atmospheric scattering.
-- **Real-time**: **XX FPS** on **Your GPU/Device**.
-- **Efficient**: **X.XM** params, **XX GFLOPs**.
-- **Reproducible**: training scripts + pretrained weights.
+
 
 ## 📦 Environment
 ```bash
